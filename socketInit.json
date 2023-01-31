@@ -1,0 +1,21 @@
+{
+	"client" :
+	{
+      "ipAdress": "127.0.0.1",
+      "port": "60000"
+    },
+	"serverPorts": [
+    {
+      "name": "Lara",
+      "port": "60001"
+    },
+    {
+      "name": "Lisa",
+      "port": "60002"
+    }
+  ]
+}
+
+
+
+

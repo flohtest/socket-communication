@@ -1,0 +1,8 @@
+de\herolflo\socketCommunication\ConnectionBuilderObserver.class
+de\herolflo\socketCommunication\json\JSONReaderClient.class
+de\herolflo\socketCommunication\ConnectionBuilder.class
+de\herolflo\socketCommunication\udp\SingleSocketServer.class
+de\herolflo\socketCommunication\udp\SocketServerObserver.class
+de\herolflo\socketCommunication\json\JSONFileReader.class
+de\herolflo\socketCommunication\udp\SocketClient.class
+de\herolflo\App.class
